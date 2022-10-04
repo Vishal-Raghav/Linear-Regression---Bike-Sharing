@@ -1,2 +1,2 @@
-# Linear-Regression---Bike-Sharing
+# Linear-Regression-Bike-Sharing
 Predict demands for bike-sharing system
